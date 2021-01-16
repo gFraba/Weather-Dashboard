@@ -1,0 +1,50 @@
+#Header{
+    padding: 5px;
+    background-color: #343A40;
+    color: white;
+}
+#card{
+    margin-right: 15px;
+}
+.list-group-item{
+    background: #343A40;
+    margin: 5px;
+    text-align: center;
+    font-weight: 500;
+    overflow-wrap: break-word;
+    color: white;
+}
+
+.list-group-item:hover{
+    background: white;
+    font-weight: 800;
+    color: #343A40
+}
+
+#search-btn{
+    background: #0081F9;
+}
+
+.high{
+    color: white;
+    background-color: red;
+}
+
+.medium{
+    color: black;
+    background-color: yellow;
+}
+
+.low{
+    color: black;
+    background-color: greenyellow;
+}
+
+.badge{
+    font-size: 10px;
+}
+
+#weather-icon{
+    max-width: 25px;
+    max-height: 25px;
+}
