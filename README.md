@@ -17,7 +17,7 @@ THEN I am presented with the last searched city forecast
 ```
 ## Screenshot
 
-![Alt text](Weather.PNG?raw=true)
+![Alt text](Weather.png?raw=true)
 ---
 
 Link to deployed application
